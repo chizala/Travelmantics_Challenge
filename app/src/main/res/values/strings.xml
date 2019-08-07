@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travelmantics_Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">save</string>
+    <string name="delete_menu">Delete Deal</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
